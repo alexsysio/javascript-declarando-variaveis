@@ -21,7 +21,7 @@
 &nbsp;
 
 ### Declarando uma variável usando const
-### Sempre use se o valor não deve ser alteradoconst
+### Sempre use se o valor não deve ser alterado const
 ### const carName = "Volvo";
 ### Um Exemplo Misto
 ### const price1 = 5;
@@ -31,7 +31,7 @@
 
 &nbsp;
 
-### As duas variáveis price1 e price2 são declaradas com a palavra-chave.const
+### As duas variáveis price1 e price2 são declaradas com a palavra-chave. const
 ### Os valores de price1 e price2 não podem ser alterados.
 ### O total da variável é declarado com a palavra-chave.let
 ### O valor do total pode ser alterado.
