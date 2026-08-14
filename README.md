@@ -27,7 +27,7 @@
 
 &nbsp;
 
-### Demonstração
+### Resultado
 
 <a href="https://github.com/user-attachments/assets/e19b3efd-10fe-4997-9586-43d3e519d9ee">
   <img width="100%" alt="variaveis" src="https://github.com/user-attachments/assets/e19b3efd-10fe-4997-9586-43d3e519d9ee"/>
