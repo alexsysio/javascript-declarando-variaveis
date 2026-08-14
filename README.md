@@ -1,22 +1,6 @@
-### HTML JavaScript | JavaScript Declarando Variável Usando Const
-
-<a href="https://github.com/user-attachments/assets/57f178f4-3abd-4354-bb4e-51b36991efc9" >
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/57f178f4-3abd-4354-bb4e-51b36991efc9"/>
-</a>
-
-&nbsp;
-
-### O que o JavaScript pode fazer? | JavaScript Declarando Variável Usando Const
-
-<a href="https://github.com/user-attachments/assets/6da34d73-d1c7-4338-8862-744c85507ee9">
-  <img width="100%" alt="declarando-variavel-usando-const" src="https://github.com/user-attachments/assets/6da34d73-d1c7-4338-8862-744c85507ee9"/>
-</a>
-
-&nbsp;
-
-### Declarando Variáveis JavaScript
+### É uma boa prática de programação declarar todas as variáveis no início de um script.
 ### Criar uma variável em JavaScript é chamado de declarar uma variável.
-### Você declara uma variável JavaScript com a palavra-chave ou A palavra-chave. let const
+### Você declara uma variável JavaScript com a palavra-chave let ou a palavra-chave const 
 
 &nbsp;
 
@@ -28,7 +12,6 @@
 ### const price2 = 6;
 ### let total = price1 + price2;
 
-
 &nbsp;
 
 ### As duas variáveis price1 e price2 são declaradas com a palavra-chave. const
@@ -38,15 +21,16 @@
 
 &nbsp;
 
-### É uma boa prática de programação declarar todas as variáveis no início de um script.
+<a href="https://github.com/user-attachments/assets/d6498b44-30a7-4338-8079-3c100f4fd94b">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/d6498b44-30a7-4338-8079-3c100f4fd94b"/>
+</a>
 
 &nbsp;
 
-### Quando usar var, let ou const?
-### 1. Sempre declarar variáveis
-### 2. Sempre use se o valor não deveria ser alteradoconst
-### 3. Sempre usar se o tipo não deve ser alterado (Arrays e Objetos)const
-### 4. Use apenas se não puder usar letconst
-### 5. Evite usar .var
+### Demonstração
 
+<a href="https://github.com/user-attachments/assets/e19b3efd-10fe-4997-9586-43d3e519d9ee">
+  <img width="100%" alt="variaveis" src="https://github.com/user-attachments/assets/e19b3efd-10fe-4997-9586-43d3e519d9ee"/>
+</a>
 
+&nbsp;
